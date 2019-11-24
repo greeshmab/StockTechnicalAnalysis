@@ -1,1 +1,1 @@
-# StockTechnicalAnalysis
+#Technical Indicators
